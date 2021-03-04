@@ -2,11 +2,11 @@
 
 ![](https://raw.githubusercontent.com/lucashegomes/escriba-test/main/img/main.PNG)
 
-####Descrição
+## Descrição
 
 Recebe um número inteiro positivo e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 
-####Passo a Passo
+## Passo a Passo
                 
 1. Clone o projeto em sua máquina local com o seguinte comando:
 ```
